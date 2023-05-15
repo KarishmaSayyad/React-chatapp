@@ -38,7 +38,7 @@ function Leftside(props) {
                         <BsFillChatLeftDotsFill className=" ms-3 text-primary h4" />
 
                         {/* github Link  */}
-                        <a href="https://github.com/KarishmaSayyad/chatapp.git" target="_blank" rel="noreferrer">< BsGithub className="ms-3 text-primary h3" /> </a>
+                        <a href="https://github.com/KarishmaSayyad/React-chatapp.git" target="_blank" rel="noreferrer">< BsGithub className="ms-3 text-primary h3" /> </a>
                     </div>
                 </div>
                 {/* <!-- **********************  search Bar  ******************* --> */}
